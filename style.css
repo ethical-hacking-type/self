@@ -77,7 +77,7 @@ header {
 }
 
 .logo {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     color: var(--text-color);
     font-weight: 700;
     cursor: default;
@@ -689,4 +689,5 @@ header {
 
 .projects-box.reveal {
     transform: scale(1);
+
 }
